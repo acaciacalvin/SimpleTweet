@@ -32,7 +32,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/l0pzuOA.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/l0pzuOA.mp4' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
